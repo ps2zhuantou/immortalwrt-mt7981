@@ -11,7 +11,7 @@
 #
 
 # Modify default IP
-sed -i 's/192.168.1.1/192.168.0.1/g' package/base-files/files/bin/config_generate
+# sed -i 's/192.168.1.1/192.168.0.1/g' package/base-files/files/bin/config_generate
 
 # extend TP-link firmware size
 # sed -i 's/tplink-4m/tplink-8m/g' target/linux/ar71xx/image/tiny-tp-link.mk
