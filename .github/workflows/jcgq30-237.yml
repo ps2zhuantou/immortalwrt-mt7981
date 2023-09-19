@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build ImmortalWrt jcgq30 hanwckf
+name: Build ImmortalWrt jcgq30 237
 
 on:
   repository_dispatch:
