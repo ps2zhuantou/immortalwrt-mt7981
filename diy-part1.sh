@@ -28,3 +28,4 @@ mkdir package/ming
 git clone https://github.com/mslovecc/luci-app-pushbot package/ming/luci-app-pushbot
 git clone https://github.com/mslovecc/openwrt-vlmcsd.git package/ming/openwrt-vlmcsd
 git clone https://github.com/mslovecc/ddns-scripts_aliyun.git package/ming/ddns-scripts_aliyun
+git clone https://github.com/padavanonly/luci-app-mwan3helper-chinaroute package/luci-app-mwan3helper-chinaroute
